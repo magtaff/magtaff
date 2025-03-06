@@ -16,7 +16,7 @@ I'm excited to apply my knowledge in a professional SOC environment and contribu
 | SIEM Implementation and Log Analysis          | Google Lab link|
 | Network Traffic Monitoring and Attack Detection | Google Lab link|
 | Incident Response Planning and Execution      | Google Lab link|
-| Scripting and Automation for Threat Mitigation | Google Lab link|
+| Build & Simulate Network                      |<a href="https://github.com/magtaff/Network-Topology">Networking Project</a>|
 
 ## Tools
 
@@ -61,3 +61,4 @@ I'm excited to apply my knowledge in a professional SOC environment and contribu
 
 - Phishing Email Analysis
 - Vulnerability Scanning
+- <a href="https://github.com/magtaff/Network-Topology">Networking Project</a>
