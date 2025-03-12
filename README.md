@@ -20,6 +20,7 @@ I'm excited to apply my knowledge in a professional SOC environment and contribu
 | Phishing Email Analysis                       |<a href="https://github.com/magtaff/Phishing-Analysis">Phishing Analysis|
 | Packet Analysis                               |<a href="https://github.com/magtaff/Wireshark-Packet-Analysis">Wireshark Packet Analysis|
 | Network Threat Detection                      |<a href="https://github.com/magtaff/Suricata-Threat-Detection">Suricata IDS|
+| Data Analysis & Machine Learning              |<a href="https://github.com/magtaff/Data-Analysis-and-Machine-Learning">Data Analysis & ML|
 
 ## Tools
 
