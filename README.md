@@ -13,10 +13,13 @@ I'm excited to apply my knowledge in a professional SOC environment and contribu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Google Lab link|
-| Network Traffic Monitoring and Attack Detection | Google Lab link|
-| Incident Response Planning and Execution      | Google Lab link|
+| SIEM Implementation and Log Analysis          |<a href="https://github.com/magtaff/Microsoft-Sentinel">Microsoft Azure Sentinel|
+| Vulnerability Scanning |<a href="https://github.com/magtaff/Vulnerability-Scanning">Vulnerability Scanning|
+| Threat Intelligence and Threat Hunting     |<a href="https://github.com/magtaff/Sentinel-Threat-Intelligence-and-Hunting">Sentinel Threat Intelligence/Hunting|
 | Build & Simulate Network                      |<a href="https://github.com/magtaff/Network-Topology">Networking Project</a>|
+| Phishing Email Analysis                       |<a href="https://github.com/magtaff/Phishing-Analysis">Phishing Analysis|
+| Packet Analysis                               |<a href="https://github.com/magtaff/Wireshark-Packet-Analysis">Wireshark Packet Analysis|
+| Network Threat Detection                      |<a href="https://github.com/magtaff/Suricata-Threat-Detection">Suricata IDS|
 
 ## Tools
 
